@@ -39,7 +39,7 @@
                 </a>
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
@@ -49,7 +49,7 @@
                 </a>
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
@@ -59,7 +59,7 @@
                 </a>
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
@@ -69,7 +69,7 @@
                 </a>
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
@@ -79,7 +79,7 @@
                 </a>
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
