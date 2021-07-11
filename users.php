@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Realtime Chat App | CodingNepal</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
         <section class="users">
            <header>
                <div class="content">
-                    <img src="img.png" alt="">
+                    <img src="style/img.png" alt="">
                     <div class="details">
                         <span>Coding Nepal</span>
                         <p>Active now</p>
@@ -29,7 +29,7 @@
             <div class="users-list">
                 <a href="#">
                     <div class="content">
-                        <img src="img.png" alt="">
+                        <img src="style/img.png" alt="">
                         <div class="details">
                             <span>Coding Nepal</span>
                             <p>This is test message</p>
@@ -90,5 +90,8 @@
             </div>
         </section>
     </div>
+
+    <script src="javascript/users.js"></script>
+
 </body>
 </html>
