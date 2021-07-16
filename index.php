@@ -1,4 +1,10 @@
-<?php include_once "header.php" ?>
+<?php 
+    session_start();
+    if (isset($_SESSION['unique_id'])) { // if user is logged in
+        header('Location: users.php');
+    }
+    include_once "header.php" 
+?>
 <body>
     <div class="wrapper">
         <section class="form signup">
